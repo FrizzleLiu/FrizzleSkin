@@ -1,0 +1,4 @@
+include ':skinpackages'
+include ':SkinLibrary'
+include ':app'
+rootProject.name = "FrizzleSkin"
